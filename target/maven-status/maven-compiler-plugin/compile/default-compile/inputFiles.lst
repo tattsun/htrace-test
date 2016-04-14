@@ -1,2 +1,8 @@
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/models/DBConnection.java
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/models/Tweet.java
 /Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/HtraceTestApplication.java
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/migration/HBaseMigration.java
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/controllers/TweetController.java
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/models/Tweets.java
+/Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/AppConstants.java
 /Users/tattsun/Dropbox/work/src/github.com/tattsun/htrace-test/src/main/java/me/tattsun/GreetingController.java
